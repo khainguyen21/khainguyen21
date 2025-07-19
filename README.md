@@ -1,4 +1,4 @@
-readme_content = """## Hi there 👋 I’m Khai Nguyen!
+## Hi there 👋 I’m Khai Nguyen!
 
 # 💫 About Me
 I’m a Computer Science student at **Evergreen Valley College**, passionate about **software development**, **problem-solving**, and **continuous learning**.  

@@ -1,23 +1,31 @@
-## Hi there 👋 I am Khai Nguyen!
+Hi there 👋 I’m Khai Nguyen!
+💫 About Me
+I’m a Computer Science student at Evergreen Valley College, passionate about software development, problem-solving, and continuous learning.
+💡 I have hands-on experience with web development, data structures & algorithms, and building projects in Java and Python.
+🌱 Currently exploring Spring Boot and strengthening my skills in Docker and DevOps practices.
+✨ I enjoy contributing to projects that challenge me to learn and grow while making an impact.
 
-# 💫 About Me:
-Computer Science student at Evergreen Valley College, passionate about software development, problem-solving, and continuous learning. Experienced in web development, programming, and exploring new technologies.
+💻 Tech Stack
+Programming Languages
 
-# 💻 Tech Stack:
 
-**Programming Languages**
+Web Development
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+(Currently expanding into JavaScript and backend frameworks like Spring Boot.)
 
-**Web Development**
+Databases
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
-**Databases**
+DevOps & Tools
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-**DevOps & Tools**
+🚀 What I’m working on:
+Building Java Spring Boot projects to level up my backend skills.
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+Exploring data science libraries and improving my problem-solving through coding challenges.
 
+Learning best practices for containerization and CI/CD workflows.
+
+📫 Connect with me:
+
+💌 Feel free to reach out for collaborations or just to connect!

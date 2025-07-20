@@ -13,7 +13,7 @@ I’m a Computer Science student at **Evergreen Valley College**, passionate abo
 
 **Languages**  
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23FF6F00.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 **Frameworks & Libraries**  

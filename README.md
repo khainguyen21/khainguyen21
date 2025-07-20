@@ -53,5 +53,4 @@ I’m a Computer Science student at **Evergreen Valley College**, passionate abo
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khai_Nguyen-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khainguyen21)  
-💌 *Feel free to reach out for collaborations or just to connect!*
-"""
+💌 *Feel free to reach out for collaborations or just to connect!

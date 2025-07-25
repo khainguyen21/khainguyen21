@@ -46,7 +46,6 @@ I’m a Computer Science student at **Evergreen Valley College**, passionate abo
 
 ### 🚀 What I’m working on:
 - Building **Java Spring Boot** projects to level up my backend skills.  
-- Exploring **data science libraries** and improving my **problem-solving** through coding challenges.  
 - Learning best practices for **containerization** and **CI/CD workflows**.
 
 ---

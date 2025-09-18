@@ -40,7 +40,7 @@ I’m a Computer Science student at **Evergreen Valley College**, passionate abo
 
 **Databases**  
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
